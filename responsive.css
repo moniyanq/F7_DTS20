@@ -1,0 +1,68 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+    /* Stylesheet Lutfi */
+    .hal-utama h1 {
+        font-size: 32px;
+    }
+
+    /* Stylesheet data4pass */
+    .heading-ekstra-1 h2 {
+        font-size: 20px;
+    }
+
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    /* Stylesheet M. Akbar Insani */
+    .heading-ekstra-2 h2 {
+        font-size: 20px;
+    }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .btn {
+        width: 100%;
+    }
+
+    /* Stylesheet Moni Yunitasari */
+    .header-right {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    /* Stylesheet Lutfi */
+    .hal-utama {
+        text-align: left;
+    }
+
+    .facebook {
+        margin-bottom: 10px;
+    }
+
+    .hal-utama h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .hal-utama p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    /* Stylesheet data4pass */
+    .lesson {
+        width: 100%;
+    }
+
+    /* Stylesheet kriskiluki */
+    footer {
+        text-align: center;
+    }
+}
